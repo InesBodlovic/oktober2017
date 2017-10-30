@@ -15,7 +15,8 @@
     },
     "versionFirst": "4.4.0",
     "uniqCompNum": 11,
-    "versionPublish": "4.4.0"
+    "versionPublish": "4.4.0",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -164,7 +165,7 @@
                 "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
-                "text": "<p>This 'film' is <b>a collaboration </b>between several artists/writers/humans and myself resulting in a scenario where each viewer creates his own interpretation, this results in a freedom of interpetation. For this 'film' to be a part of the public space we need a TV, DVD player, the DVD and extension cables. Electricity should be looked for in the neighborhood.&nbsp;</p>",
+                "text": "<p>This 'film' is <b>a collaboration </b>between several artists/writers/humans and myself resulting in a scenario where each viewer creates his own interpretation, this results in a freedom of interpetation. For this 'film' to be a part of the public space we need a TV, a DVD player, the DVD and extension cables. Electricity should be looked for in the neighborhood.&nbsp;</p>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
