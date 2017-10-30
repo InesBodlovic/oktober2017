@@ -99,11 +99,11 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1-1150x661.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "<i><br></i><i>Pink -</i><br><i>The color I never liked</i>",
+                "title": "<br><i>Pink -</i><br><i>The color I never liked</i>",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
@@ -116,7 +116,7 @@
                 "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
-                "text": "<b><i>The public space and why</i>&nbsp;<br></b><br>It is a place where all kinds of people come together. The gap between the artwork and its viewer can be narrowed. The spectator also walks into a dynamic sphere which is already happening and becomes a part of it. Therefore, there is not one single 'maker\" of this artwork, it is a collective happening where the public becomes co-producer and viewer at once. \"Pink the color I never liked\" is a happening that happened in June 2017 located in various streets of Ghent, Belgium and consists of the works \"Polyurethaan\", \"An example of what a film could be or become\" and \"An ode to Brâncusi.&nbsp;<br><br>",
+                "text": "<b><i><br></i></b><br><b><i>The </i></b><br><b><i>public space and why</i>&nbsp;<br></b><br>It is a place where all kinds of people come together. The gap between the artwork and its viewer can be narrowed. The spectator also walks into a dynamic sphere which is already happening and becomes a part of it. Therefore, there is not one single 'maker\" of this artwork, it is a collective happening where the public becomes co-producer and viewer at once. \"Pink the color I never liked\" is a happening that happened in June 2017 located in various streets of Ghent, Belgium and consists of the works \"Polyurethaan\", \"An example of what a film could be or become\" and \"An ode to Brâncusi.&nbsp;<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
@@ -181,7 +181,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/keromask-camouflage-cream-mixer-white-pacf-1024x1024.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -206,7 +206,7 @@
               "color": "#dc5aad",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "100px"
+              "font-size": "84px"
             },
             "P": {
               "text-align": "left",
