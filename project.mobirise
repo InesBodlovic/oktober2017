@@ -1,0 +1,358 @@
+{
+  "settings": {
+    "name": "1",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#4940fa",
+        "#252525",
+        "#e7189c",
+        "#dc5aad"
+      ]
+    },
+    "versionFirst": "4.4.0",
+    "uniqCompNum": 11,
+    "versionPublish": "4.4.0"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4940fa",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MOBIRISE",
+          "text": "HELLO<br>I'M VERY GLAD YOU ARE HERE, TAKING YOUR TIME TO LOOK AT INES BODLOVIC HER WORK. &nbsp;<br><br>THE ARTIST COMES FROM CROATIA, IS BORN IN MUNCHEN-GLADBACH, GERMANY AND LIVES IN GHENT, BELGIUM. SHE HAS STUDIED THEATER-FILM-LITERATURE AND ENGLISH IN ANTWERP AND IS CURRENTLY STUDYING AT SINT-LUCAS GHENT AS A PART OF THE <a href=\"http://www.lucamixedmediagent.be/\" target=\"_blank\" class=\"text-danger\">MIXED MEDIA ATELIER</a>.&nbsp;<br><br>SHE PREFERABLY WORKS WITH ANY KIND OF MEDIUM THAT CAN FILL ANY GIVEN SPACE. RANGING FROM VIDEO, WRITING, PERFORMANCE, SCENOGRAPHY TO FABRIC AND DRAWINGS.&nbsp;<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-7",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<i>SOMETHING THAT HAPPENS TO HAPPEN</i>-<br>A manual for a performative piece<br><div><br></div><div><br></div><br><div>Hello and welcome</div><div><br></div><div><br></div><div>WHO&nbsp;</div><div>&nbsp;SOMETHING THAT HAPPENS TO HAPPEN consists of pairs, these need \tto be \t\tformed.</div><div>&nbsp;It can be 2 - 4 - 6 - 8 - 10… people this are 1 - 2 - 3 - 4 - 5… pairs.&nbsp;</div><div><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></div><div>WHERE</div><div><span style=\"color: inherit;\">&nbsp;Preferably, SOMETHING THAT HAPPENS TO HAPPEN needs to take place in the \tcentre of a wide space. This can be inside or outside.&nbsp;</span><br></div><div><br></div><div>WHAT&nbsp;</div><div>&nbsp;You will need this guide, (this will be handed to you) and an open mind.&nbsp;</div><div><br></div><div>HOW</div><div><span style=\"color: inherit;\">&nbsp;To start “Folke Rabe - Was??” will be filling the space. Each pair sits on the floor in \tthe centre of the space facing each other, with their back against the long sides of \t\tthis space (see the attachments for a drawing of the space and the correct \t\t\tpositioning) with their shoes off. With your eyes closed listen attentively to the \t\tsounds filling the space and take control of your breath. Now imagine being in \t\tcomplete solitude with your partner, really focus on their features (eyes, nose, \t\tfingers, body-language) and the rhythm of their breathing. Try to really feel \t\tconnected to him/her.&nbsp;</span><br></div><div><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></div><div>&nbsp;Now take each other’s hands. What do you feel?&nbsp;</div><div>&nbsp;Next lay your head on their shoulder and lean on each other. What are you thinking \tabout?&nbsp;</div><div>&nbsp;Are you comfortable? Are you not comfortable? Capture what you feel and \t\t\tmemorize this feeling.&nbsp;</div><div>&nbsp;Now position yourself horizontally on the floor with your eyes facing the ceiling or \tsky, your body is again following the longest side of the room. Your legs should be \tseparated from each other and touching/pushing against the feet of your partner. \tTogether you will be forming a pane (dutch: een ruit)&nbsp;</div><div>&nbsp;Last, stand up straight now facing the wall with your eyes closed completely \t\tdistanced from your partner, keep in mind to focus on your breathing. What are you \tthinking about?&nbsp;</div><div>&nbsp;When you are ready open your eyes and turn 180°, facing your partner pressed to \ttheir body completely. Wait until your partner is ready to face you.</div><div>&nbsp;Stay in this position pressed against each other. What are you thinking about?&nbsp;</div><div>&nbsp;Are you comfortable? Are you not comfortable? Capture what you feel and \t\t\tmemorize this feeling. When you are ready leave your partner and leave the space.</div><div><br></div><div><br></div><div>Thank you and goodbye &nbsp;</div><br><div><i>October 2017</i></div>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "_styles": {
+            "DIV": {
+              "font-size": "14px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": false,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-1150x661.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<i><br></i><i>Pink -</i><br><i>The color I never liked</i>",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keromask-camouflage-cream-mixer-white-pacf-1024x1024.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "<b><i>The public space and why</i>&nbsp;<br></b><br>It is a place where all kinds of people come together. The gap between the artwork and its viewer can be narrowed. The spectator also walks into a dynamic sphere which is already happening and becomes a part of it. Therefore, there is not one single 'maker\" of this artwork, it is a collective happening where the public becomes co-producer and viewer at once. \"Pink the color I never liked\" is a happening that happened in June 2017 located in various streets of Ghent, Belgium and consists of the works \"Polyurethaan\", \"An example of what a film could be or become\" and \"An ode to Brâncusi.&nbsp;<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-4-2000x1328.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "<i style=\"font-weight: bold;\"><br></i><br><i style=\"font-weight: bold;\">Polyureth</i><br><i style=\"font-weight: bold;\">aan</i>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keromask-camouflage-cream-mixer-white-pacf-1024x1024.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "A sculpture made out of isimo and cartboard covered with PU-foam and a metallic fabric (dark blue). This sculpture should be carried on the head through the public space and has no specific placing position whatsoever.&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/16-1280x800.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "title": "Pink the color I never liked - A social act",
+                "contentAlign": "center",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>A snapshot of the screening of \"An example of what a film could be or become\" June 2017",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keromask-camouflage-cream-mixer-white-pacf-1024x1024.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "<p>This 'film' is <b>a collaboration </b>between several artists/writers/humans and myself resulting in a scenario where each viewer creates his own interpretation, this results in a freedom of interpetation. For this 'film' to be a part of the public space we need a TV, DVD player, the DVD and extension cables. Electricity should be looked for in the neighborhood.&nbsp;</p>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/35-1-1280x800.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<i>&nbsp;</i><br><i>AN ODE TO BRÂN</i><br><i>CUSI</i>",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keromask-camouflage-cream-mixer-white-pacf-1024x1024.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "title": "",
+                "contentAlign": "right",
+                "text": "For this piece a bag of (red) onions, a cutting board and a sharp knife are needed. Each side of the onion has to be cut off. Then they are stacked on top of each other, as if they are sculptures made by Brâncusi.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-3",
+          "_styles": {
+            "H1": {
+              "text-align": "right"
+            },
+            "I": {
+              "color": "#dc5aad",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "100px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px",
+              "color": "#252525"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "right",
+              "font-size": "18px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px",
+              "text-align": "right",
+              "color": "#252525"
+            },
+            ".mbr-header__text I": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "47",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "right",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=MtlwwwKR7YM&feature=youtu.be",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<i>An example of what a film could be or become</i>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><i>July 2017</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4940fa",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">CONTACT</span>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SAY HELLO</a>",
+          "form": {
+            "action": "ines_bodlovic@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-5",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "left",
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
